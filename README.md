@@ -1,1 +1,1 @@
-# Analitic-projects
+# Analytical-projects
