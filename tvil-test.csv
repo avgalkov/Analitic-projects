@@ -1,0 +1,3 @@
+,adv_name,sale,view_count,click_count,first_month_clients_count,second_month_clients_count,third_month_clients_count,first_month_orders_count,first_month_aov,second_month_aov,third_month_aov,first_month_ctr,first_month_cr,first_month_revenue,second_month_orders_count,third_month_orders_count,second_month_revenue,third_month_revenue,total_revenue
+0,А_android,500,3000000,25130,1560,374,78,345,8425,4212.5,4212.5,1.0,1.0,2734125,83.0,17.0,349637.5,71612.5,3155375.0
+1,Б_iphone,800,3000000,23750,1345,94,27,285,10875,5437.5,5437.5,1.0,1.0,2871375,20.0,6.0,108750.0,32625.0,3012750.0
